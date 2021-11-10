@@ -18,7 +18,7 @@ double PeakHourEndtimeInseconds = PeakHourEndtime.Subtract(DateTime.MinValue).To
 while (startTimeInseconds <= endTimeInseconds)
 {
     startTimeInseconds += 20;
-    if(startTimeInseconds >= PeakHourStarttimeInseconds && endTimeInseconds <= PeakHourEndtimeInseconds)
+    if(startTimeInseconds >= PeakHourStarttimeInseconds && startTimeInseconds  <= PeakHourEndtimeInseconds)
     {
         TotalCost += 30;
     }
