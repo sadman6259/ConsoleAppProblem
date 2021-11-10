@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\ConsoleAppProblem\bin\Debug\net6.0\ConsoleAppProblem.exe
+C:\Users\User\source\repos\ConsoleAppProblem\bin\Debug\net6.0\ConsoleAppProblem.deps.json
+C:\Users\User\source\repos\ConsoleAppProblem\bin\Debug\net6.0\ConsoleAppProblem.runtimeconfig.json
+C:\Users\User\source\repos\ConsoleAppProblem\bin\Debug\net6.0\ConsoleAppProblem.dll
+C:\Users\User\source\repos\ConsoleAppProblem\bin\Debug\net6.0\ref\ConsoleAppProblem.dll
+C:\Users\User\source\repos\ConsoleAppProblem\bin\Debug\net6.0\ConsoleAppProblem.pdb
+C:\Users\User\source\repos\ConsoleAppProblem\obj\Debug\net6.0\ConsoleAppProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ConsoleAppProblem\obj\Debug\net6.0\ConsoleAppProblem.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ConsoleAppProblem\obj\Debug\net6.0\ConsoleAppProblem.AssemblyInfo.cs
+C:\Users\User\source\repos\ConsoleAppProblem\obj\Debug\net6.0\ConsoleAppProblem.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleAppProblem\obj\Debug\net6.0\ConsoleAppProblem.dll
+C:\Users\User\source\repos\ConsoleAppProblem\obj\Debug\net6.0\ref\ConsoleAppProblem.dll
+C:\Users\User\source\repos\ConsoleAppProblem\obj\Debug\net6.0\ConsoleAppProblem.pdb
+C:\Users\User\source\repos\ConsoleAppProblem\obj\Debug\net6.0\ConsoleAppProblem.genruntimeconfig.cache
